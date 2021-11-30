@@ -99,6 +99,8 @@ Ejercicios Capitulo 6
 
 4.Video
 
+https://youtu.be/pyuDPllqMQc 
+
 5.Conclusiones 
 
 • Al desarrollar los ejercicios vimos la importancia que tiene aprender a identificar cuando un circuito se encuentra en paralelo y cuando se encuentra en serie ya que existen muchas diferencias entre estos dos tipos de circuitos.
