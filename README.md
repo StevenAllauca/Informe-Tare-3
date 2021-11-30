@@ -15,7 +15,7 @@ Docente: Ing. Darwin Alulema
 
 Tema: Cap 5 y 26 del libro Principios de circuitos electricos Floyd
 
-Objetivos
+1.Objetivos 
 Generales
 
 • Identificar cuando un circuito esta en paralelo o en serie y examinar que reglas rigen la operación de cada uno.
@@ -34,12 +34,14 @@ Especificos
 
 • Aprender a usar las diferentes ecuaciones que existen para obtener voltaje, resistencia y corriente según el circuito que se presente.
 
-Marco Teorico (Resumen) Capitulo 5
+2.Marco teorico(Resumen)Capitulo 5
+
 ![image](https://user-images.githubusercontent.com/94026628/144081703-e8a22f4b-0ffb-4f18-a665-7f57798f37cd.png)
 ![image](https://user-images.githubusercontent.com/94026628/144081770-c4310bd1-8844-4aa4-90ff-ed1b41600c6b.png)
 Capitulo 6
 ![image](https://user-images.githubusercontent.com/94026628/144081816-bb6940d5-ad49-4243-a8ff-a5fe711cf6b9.png)
-Explicación y resolución de ejercicios o problemas
+
+3.Explicacion  y resolucion del ejercicios 
 
 Ejercicios Capitulo 5
 
@@ -95,9 +97,9 @@ Ejercicios Capitulo 6
 ![image](https://user-images.githubusercontent.com/94026628/144086613-67c07c45-ecff-495e-9e67-9190d9bef5cf.png)
 ![image](https://user-images.githubusercontent.com/94026628/144086632-b22f6f8d-6a15-4372-ae4c-5823f5eb1ec4.png)
 
-Video
+4.Video
 
-Conclusiones
+5.Conclusiones 
 
 • Al desarrollar los ejercicios vimos la importancia que tiene aprender a identificar cuando un circuito se encuentra en paralelo y cuando se encuentra en serie ya que existen muchas diferencias entre estos dos tipos de circuitos.
 
@@ -109,6 +111,7 @@ Conclusiones
 
 • Al resolver varios circuitos observamos que existen múltiples formas de encontrar los componentes de un circuito y tenemos que aprender a identificar que ecuación nos resulta más fácil para poder resolver.
 
-Bibliografia
+6.Bibliografia 
+
 F. (2021). Principios de circuitos eléctricos, 8Ed. Pearson.
 
